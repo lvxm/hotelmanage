@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="sunhotel"
+  id="myeclipse.1190464139703"
+  context-root="/sunhotel"
+  j2ee-spec="1.4"
+  archive="sunhotel.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

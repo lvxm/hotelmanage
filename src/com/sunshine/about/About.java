@@ -108,7 +108,7 @@ implements ActionListener {
 	}
 	
 	/**=======================================================================**
-	 *			ActionListener 监听
+	 *			ActionListener 监听ytr
 	 **=======================================================================**
 	 */
 	public void actionPerformed (ActionEvent ae) {
